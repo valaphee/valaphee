@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Valaphee. A Software Developer, which kinda specialized on Network-related Development.
+I'm Valaphee. A Software Developer, which kinda specialized on network-related Development.
 
 Here is a overview of all open source projects I did so far:
 
