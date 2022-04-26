@@ -6,7 +6,7 @@ Here is a overview of all open source projects I did so far:
 
 ### Applications
 [blit](https://github.com/valaphee/blit) - A free and open-source, cross-platform WebDAV, K8s CP and SFTP client with a vast list of features.<br>
-[synergy](https://github.com/valaphee/synergy) - A free and open-source interactive (transparent) proxy software with a vast list of features.<br>
+[synergy](https://github.com/valaphee/synergy) - A conglomerate, everything that is to small to fit in its on project<br>
 [protod](https://github.com/valaphee/protod) - Protocol Buffers Decompiler extracts Protocol Buffers descriptors from any file
 
 ### Libraries
