@@ -7,7 +7,7 @@ Here is a overview of all open source projects I did so far:
 ### Applications
 [blit](https://github.com/valaphee/blit) - A free and open-source, cross-platform WebDAV, K8s CP and SFTP client with a vast list of features.<br>
 [synergy](https://github.com/valaphee/synergy) - A conglomerate, everything that is to small to fit in its on project<br>
-[protod](https://github.com/valaphee/protod) - Protocol Buffers Decompiler extracts Protocol Buffers descriptors from any file
+[protod](https://github.com/valaphee/protod) - Part of the conglomerate of synergy (but it's a build required tool): Protocol Buffers Decompiler extracts Protocol Buffers descriptors from any file
 
 ### Libraries
 [netcode](https://github.com/valaphee/netcode) - "Netcode" for Minecraft: Java Edition and Minecraft: Bedrock Edition<br>
