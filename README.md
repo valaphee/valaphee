@@ -6,7 +6,7 @@ Here is a overview of all open source projects I did so far:
 
 ### Applications
 [blit](https://github.com/valaphee/blit) - A free and open-source, cross-platform WebDAV, K8s CP and SFTP client with a vast list of features.<br>
-[synergy](https://github.com/valaphee/synergy) - A conglomerate, everything that is to small to fit in its on project ((transparent) proxies for bgs, http(s), mcbe; casc storage format, OpenCV-related stuff, drivers for virtual kbd and ms, Windows hooks for kbd and ms, etc.)<br>
+[synergy](https://github.com/valaphee/synergy) - A conglomerate, everything that is to small to fit in its on project ((transparent) proxies for bgs, http(s), mcbe; casc storage format, OpenCV-related stuff, drivers and Windows Hooks for virtual kbd and ms which also can be used to remote control PCs via drivers - "Physical" Input, etc.)<br>
 [protod](https://github.com/valaphee/protod) - Part of the conglomerate of synergy (but it's a build required tool): Protocol Buffers Decompiler extracts Protocol Buffers descriptors from any file
 
 ### Libraries
