@@ -12,4 +12,4 @@ Here is a overview of all open source projects I did so far:
 [foundry](https://github.com/valaphee/foundry) - A set of libraries for common used functionalities which are not included in Java or Kotlin.
 [jackson-dataformat-nbt](https://github.com/valaphee/jackson-dataformat-nbt) - Support for reading and writing NBT-encoded data via Jackson abstractions.<br>
 [netcode](https://github.com/valaphee/netcode) - "Netcode" for Minecraft: Java Edition and Minecraft: Bedrock Edition<br>
-[bit-twiddle](https://github.com/valaphee/bit-twiddle) - A library for descriping and parsing binary structures.<br>
+[bit-twiddle](https://github.com/valaphee/bit-twiddle) - A library for describing and parsing binary structures.<br>
