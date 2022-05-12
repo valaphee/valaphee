@@ -7,7 +7,6 @@ Here is a overview of all open source projects I did so far:
 ### Applications
 [flow](https://github.com/valaphee/flow) - Flow-based programming "language", with visual editor, docker-capable "processor", and some extensions<br>
 [protod](https://github.com/valaphee/protod) - Protocol Buffers Decompiler extracts Protocol Buffers descriptors from any file.<br>
-[synergy](https://github.com/valaphee/synergy) - A conglomerate, everything that is to small to fit in its on project ((transparent) proxies for bgs, http(s), mcbe; casc storage format, OpenCV-related stuff, drivers and Windows Hooks for virtual kbd and ms which also can be used to remote control PCs via drivers - "Physical" Input, etc.)
 
 ### Libraries
 [foundry](https://github.com/valaphee/foundry) - A set of libraries for common used functionalities which are not included in Java or Kotlin.<br>
