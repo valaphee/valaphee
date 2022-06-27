@@ -5,7 +5,7 @@ I'm Valaphee. A Software Developer, which kinda specialized on network-related d
 Here is a overview of all open source projects I did so far:
 
 ### Applications
-[cran](https://github.com/valaphee/cran) - Flow-based programming "language", with visual editor, docker-capable "processor", and some extensions<br>
+[cran](https://github.com/valaphee/cran) - Flow-based programming "language" (Kotlin), with visual editor (JavaFX), docker-capable "processor", and some extensions (HID-based input emulation, SDR, etc.)<br>
 [protod](https://github.com/valaphee/protod) - Protocol Buffers Decompiler extracts Protocol Buffers descriptors from any file.<br>
 
 ### Libraries
