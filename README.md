@@ -9,6 +9,7 @@ Here is a overview of all open source projects I did so far:
 [Cyclone](https://github.com/valaphee/Cyclone) - Ascalter Cyclone cloud-system (Legacy Project 2014)<br>
 [CyclonePort](https://github.com/valaphee/Cyclone) - Ascalter Cyclone cloud-system (Legacy Project 2014)<br>
 [blit](https://github.com/valaphee/blit) - Free and open-source, cross-platform WebDAV, K8s CP and SFTP client with a vast list of features. (Learning Project for JavaFX)<br>
+[synergy](https://github.com/valaphee/synergy) - Free and open-source interactive (transparent) proxy with a vast list of features. (Replaced by Cran)
 [tesseract](https://github.com/valaphee/tesseract) - Experience Minecraft in a different way (Server software based around ECS, with a multi-threaded engine; Learning Project for ECS)<br>
 [protod](https://github.com/valaphee/protod) - Protocol Buffers Decompiler extracts Protocol Buffers descriptors from any file.<br>
 
