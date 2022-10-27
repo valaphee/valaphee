@@ -5,7 +5,7 @@ I'm Valaphee. A Software Developer, which kinda specialized on network-related d
 Here is a overview of all open source projects I did so far (sorted from newest to oldest):
 
 ### Applications
-[mcrputil](https://github.com/valaphee/mcrputil) - Minecraft Resource Pack Util<br>
+[mcrputil](https://github.com/valaphee/mcrputil) - Minecraft Resource Pack Util for encrypting, decrypting, signing and verifing resource packs.<br>
 [protod](https://github.com/valaphee/protod) - Protocol Buffers Decompiler extracts Protocol Buffers descriptors from any file.<br>
 [cran-fbp](https://github.com/valaphee/cran-fbp) - Flow-based programming "language" (Kotlin), with visual editor (JavaFX), docker-capable "processor", and some extensions (HID-based input emulation, SDR, etc., might be replaced with an C++/WinRT UWP implementation)<br>
 [synergy](https://github.com/valaphee/synergy) - Free and open-source interactive (transparent) proxy with a vast list of features. (Replaced by Cran)<br>
