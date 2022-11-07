@@ -12,10 +12,13 @@ Here is a overview of all open source projects I did so far (sorted from newest 
 [blit](https://github.com/valaphee/blit) - Free and open-source, cross-platform WebDAV, K8s CP and SFTP client with a vast list of features. (Learning Project for JavaFX)<br>
 [tesseract](https://github.com/valaphee/tesseract) - Experience Minecraft in a different way (Server software based around ECS, with a multi-threaded engine; Learning Project for ECS)<br>
 [tregret](https://github.com/valaphee/tregret) - Import back messages exported from Telegram into JSON format<br>
-[Cyclone](https://github.com/valaphee/Cyclone) - Ascalter Cyclone cloud-system (Legacy Project 2014)<br>
-[CyclonePort](https://github.com/valaphee/Cyclone) - Ascalter Cyclone cloud-system (Legacy Project 2014)<br>
 
 ### Libraries
 [jackson-dataformat-nbt](https://github.com/valaphee/jackson-dataformat-nbt) - Support for reading and writing NBT-encoded data via Jackson abstractions.<br>
 [netcode](https://github.com/valaphee/netcode) - "Netcode" for Minecraft: Java Edition and Minecraft: Bedrock Edition<br>
 [foundry](https://github.com/valaphee/foundry) - A set of libraries for common used functionalities which are not included in Java or Kotlin.<br>
+
+### Other
+[redsynth](https://github.com/valaphee/redsynth) - Redstone Synthesizer for automatically creating optimized redstone circuits.<br>
+[Cyclone](https://github.com/valaphee/Cyclone) - Ascalter Cyclone cloud-system (Legacy Project 2014)<br>
+[CyclonePort](https://github.com/valaphee/Cyclone) - Ascalter Cyclone cloud-system (Legacy Project 2014)<br>
