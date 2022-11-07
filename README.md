@@ -19,6 +19,6 @@ Here is a overview of all open source projects I did so far (sorted from newest 
 [foundry](https://github.com/valaphee/foundry) - A set of libraries for common used functionalities which are not included in Java or Kotlin.<br>
 
 ### Other
-[redsynth](https://github.com/valaphee/redsynth) - Generate redstone circuits from Verilog.<br>
+[redsynth](https://github.com/valaphee/redsynth) - Generate redstone circuits out of Verilog.<br>
 [Cyclone](https://github.com/valaphee/Cyclone) - Ascalter Cyclone cloud-system (Legacy Project 2014)<br>
 [CyclonePort](https://github.com/valaphee/Cyclone) - Ascalter Cyclone cloud-system (Legacy Project 2014)<br>
