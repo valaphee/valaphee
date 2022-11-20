@@ -11,7 +11,6 @@ Here is a overview of all open source projects I did so far (sorted from newest 
 [synergy](https://github.com/valaphee/synergy) - Free and open-source interactive (transparent) proxy with a vast list of features. (Replaced by Cran)<br>
 [blit](https://github.com/valaphee/blit) - Free and open-source, cross-platform WebDAV, K8s CP and SFTP client with a vast list of features. (Learning Project for JavaFX)<br>
 [tesseract](https://github.com/valaphee/tesseract) - Experience Minecraft in a different way (Server software based around ECS, with a multi-threaded engine; Learning Project for ECS)<br>
-[tregret](https://github.com/valaphee/tregret) - Import back messages exported from Telegram into JSON format<br>
 
 ### Libraries
 [jackson-dataformat-nbt](https://github.com/valaphee/jackson-dataformat-nbt) - Support for reading and writing NBT-encoded data via Jackson abstractions.<br>
