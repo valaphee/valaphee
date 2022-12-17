@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Valaphee. A Software Developer, who specialized on network-related development (and reverse engineering protocols). But I also really like to get into new stuff.
+I'm Valaphee - a software developer, who specialized on network-related development (and reverse engineering protocols). But I also really like to get into new stuff.
 
 Here is an overview of all open source projects I made so far (sorted from newest to oldest):
 
