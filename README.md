@@ -1,13 +1,13 @@
 # Hi there 👋
 
-I'm Valaphee. A Software Developer, which kinda specialized on network-related development (and reverse engineering protocols). But I also really like to also get into new stuff.
+I'm Valaphee. A Software Developer, who specialized on network-related development (and reverse engineering protocols). But I also really like to get into new stuff.
 
-Here is a overview of all open source projects I did so far (sorted from newest to oldest):
+Here is an overview of all open source projects I made so far (sorted from newest to oldest):
 
 ### Applications
 [mcscrape](https://github.com/valaphee/mcscrape) - Minecraft scraper for scraping player count and ping and exporting it to InfluxDB.<br>
 [mcrputil](https://github.com/valaphee/mcrputil) - Minecraft Resource Pack Util<br>
-[protod](https://github.com/valaphee/protod) - Protocol Buffers Decompiler extracts Protocol Buffers descriptors from any file.<br>
+[protod](https://github.com/valaphee/protod) - Protocol Buffers Decompiler to extract Protocol Buffers descriptors from any file.<br>
 [cran-fbp](https://github.com/valaphee/cran-fbp) - Flow-based programming "language" (Kotlin), with visual editor (JavaFX), docker-capable "processor", and some extensions (HID-based input emulation, SDR, etc., might be replaced with an C++/WinRT UWP implementation)<br>
 [synergy](https://github.com/valaphee/synergy) - Free and open-source interactive (transparent) proxy with a vast list of features. (Replaced by Cran)<br>
 [blit](https://github.com/valaphee/blit) - Free and open-source, cross-platform WebDAV, K8s CP and SFTP client with a vast list of features. (Learning Project for JavaFX)<br>
