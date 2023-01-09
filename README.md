@@ -14,7 +14,6 @@ Here is an overview of all open source projects I made so far:
 
 ### Minecraft-related
 [jackson-dataformat-nbt](https://github.com/valaphee/jackson-dataformat-nbt) - Support for reading and writing NBT-encoded data via Jackson abstractions.<br>
-[mceditor](https://github.com/valaphee/mceditor) - Edit Minecraft assets.<br>
 [mcrputil](https://github.com/valaphee/mcrputil) - Encrypt, minify or decrypt, pretty-print resource packs for Minecraft.<br>
 [mcscrape](https://github.com/valaphee/mcscrape) - Scrape Minecraft servers player count and ping and exporting it to InfluxDB.<br>
 [netcode](https://github.com/valaphee/netcode) - "Netcode" for Minecraft: Java Edition and Minecraft: Bedrock Edition<br>
