@@ -5,6 +5,8 @@ I'm Valaphee - a software developer, who specialized on network-related developm
 Here is an overview of all open source projects I made so far:
 
 ### General
+[bevyv](https://github.com/valaphee/bevyv) - BevyV
+
 #### No longer maintained
 [blit](https://github.com/valaphee/blit) - Free and open-source, cross-platform WebDAV, K8s CP and SFTP client with a vast list of features. (Learning Project for JavaFX)<br>
 [cran](https://github.com/valaphee/cran) - Flow-based programming "language" (Kotlin), with visual editor (JavaFX), docker-capable "processor", and some extensions (HID-based input emulation, SDR, etc., might be replaced with an C++/WinRT UWP implementation)<br>
