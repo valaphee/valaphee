@@ -5,8 +5,8 @@ I'm Valaphee - a software developer, who specialized on network-related developm
 Here is an overview of all open source projects I made so far:
 
 ### General
-[rodio-steamaudio](https://github.com/valaphee/rodio-steamaudio) -  Steam Audio integration for Rodio
-[steamaudio](https://github.com/valaphee/steamaudio) - Steam Audio bindings for Rust
+[rodio-steamaudio](https://github.com/valaphee/rodio-steamaudio) -  Steam Audio integration for Rodio<br>
+[steamaudio](https://github.com/valaphee/steamaudio) - Steam Audio bindings for Rust<br>
 [vixen](https://github.com/valaphee/vixen) - Bevy plugins
 
 #### No longer maintained
