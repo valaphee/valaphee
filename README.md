@@ -5,7 +5,9 @@ I'm Valaphee - a software developer, who specialized on network-related developm
 Here is an overview of all open source projects I made so far:
 
 ### General
-[bevyv](https://github.com/valaphee/bevyv) - Valaphee's Bevy Plugins (BevyV)
+[rodio-steamaudio](https://github.com/valaphee/rodio-steamaudio) -  Steam Audio integration for Rodio
+[steamaudio](https://github.com/valaphee/steamaudio) - Steam Audio bindings for Rust
+[vixen](https://github.com/valaphee/vixen) - Bevy plugins
 
 #### No longer maintained
 [blit](https://github.com/valaphee/blit) - Free and open-source, cross-platform WebDAV, K8s CP and SFTP client with a vast list of features. (Learning Project for JavaFX)<br>
