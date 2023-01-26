@@ -26,4 +26,4 @@ Here is an overview of all open source projects I made so far:
 [Cyclone](https://github.com/valaphee/Cyclone) - Ascalter Cyclone cloud-system (Legacy Project 2014)<br>
 [CyclonePort](https://github.com/valaphee/Cyclone) - Ascalter Cyclone cloud-system (Legacy Project 2014)<br>
 [redsynth](https://github.com/valaphee/redsynth) - Generate redstone circuits out of Verilog.<br>
-[tesseract](https://github.com/valaphee/tesseract) - Experience Minecraft in a different way (Server software based around ECS, with a multi-threaded engine; Learning Project for ECS)<br>
+[tesseract-kotlin](https://github.com/valaphee/tesseract-kotlin) - Experience Minecraft in a different way (Server software based around ECS, with a multi-threaded engine; Learning Project for ECS)<br>
