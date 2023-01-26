@@ -21,6 +21,7 @@ Here is an overview of all open source projects I made so far:
 [mcrputil](https://github.com/valaphee/mcrputil) - Encrypt, minify or decrypt, pretty-print resource packs for Minecraft.<br>
 [mcscrape](https://github.com/valaphee/mcscrape) - Scrape Minecraft servers player count and ping and exporting it to InfluxDB.<br>
 [netcode](https://github.com/valaphee/netcode) - "Netcode" for Minecraft: Java Edition and Minecraft: Bedrock Edition<br>
+[tesseract](https://github.com/valaphee/tesseract) - An ECS-based Minecraft server written in Rust.<br>
 
 #### No longer maintained
 [Cyclone](https://github.com/valaphee/Cyclone) - Ascalter Cyclone cloud-system (Legacy Project 2014)<br>
