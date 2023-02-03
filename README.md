@@ -5,7 +5,7 @@ I'm Valaphee - a software developer, who specialized on network-related developm
 Here is an overview of all open source projects I made so far (sorted by last commit date):
 
 ### General
-[protod](https://github.com/valaphee/protod) - Protocol Buffers Decompiler to extract Protocol Buffers descriptors from any file. (Kotlin)<br>
+[protod](https://github.com/valaphee/protod) - Protobuf Decompiler (Kotlin)<br>
 [steamaudio](https://github.com/valaphee/steamaudio) - Steam Audio bindings for Rust<br>
 [vixen](https://github.com/valaphee/vixen) - Bevy plugins (Rust)
 
