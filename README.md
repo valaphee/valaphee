@@ -19,7 +19,7 @@ Here is an overview of all open source projects I made so far:
 [mcrputil](https://github.com/valaphee/mcrputil) - Minecraft Resource Pack Util for encrypting and decrypting resource packs. (Rust)<br>
 [mcscrape](https://github.com/valaphee/mcscrape) - Scrape Minecraft servers player count and ping and exporting it to InfluxDB. (Rust)<br>
 [jackson-dataformat-nbt](https://github.com/valaphee/jackson-dataformat-nbt) - Support for reading and writing NBT-encoded data via Jackson abstractions. (Kotlin)<br>
-[tesseract](https://github.com/valaphee/tesseract) - An ECS-based Minecraft server written in Rust.<br>
+[tesseract](https://github.com/valaphee/tesseract) - An ECS-based Minecraft server toolkit written in Rust.<br>
 [netcode](https://github.com/valaphee/netcode) - "Netcode" for Minecraft: Java Edition and Minecraft: Bedrock Edition (Kotlin)<br>
 
 #### No longer maintained
