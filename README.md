@@ -16,10 +16,10 @@ Here is an overview of all open source projects I made so far:
 [foundry](https://github.com/valaphee/foundry) - A set of libraries for common used functionalities which are not included in Java or Kotlin. (Kotlin)<br>
 
 ### Minecraft-related
+[tesseract](https://github.com/valaphee/tesseract) - An ECS-based Minecraft server toolkit written in Rust.<br>
+[mcrender](https://github.com/valaphee/mcrender) - Minecraft Renderer as a service (Rust)<br>
 [mcrputil](https://github.com/valaphee/mcrputil) - Minecraft Resource Pack Util for encrypting and decrypting resource packs. (Rust)<br>
 [mcscrape](https://github.com/valaphee/mcscrape) - Scrape Minecraft servers player count and ping and exporting it to InfluxDB. (Rust)<br>
-[mcrender](https://github.com/valaphee/mcrender) - Minecraft Item renderer. (Rust)<br>
-[tesseract](https://github.com/valaphee/tesseract) - An ECS-based Minecraft server toolkit written in Rust.<br>
 
 #### No longer maintained
 [jackson-dataformat-nbt](https://github.com/valaphee/jackson-dataformat-nbt) - Support for reading and writing NBT-encoded data via Jackson abstractions. (Kotlin)<br>
