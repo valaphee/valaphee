@@ -5,7 +5,8 @@ I'm Valaphee - a software developer, who specialized on network-related developm
 Here is an overview of all open source projects I made so far:
 
 ### General
-[amalgam](https://github.com/valaphee/amalgam) - Reverse-engineering sandbox (Rust)<br>
+[malebolge](https://github.com/valaphee/malebolge) - Reverse-engineering sandbox (Rust)<br>
+[iocum (latin)](https://github.com/valaphee/iocum) - Utilities and reverse-engineered protocols (Rust)<br>
 
 #### No longer maintained
 [protod](https://github.com/valaphee/protod) - Protobuf Decompiler (Kotlin)<br>
