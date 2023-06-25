@@ -24,7 +24,6 @@ Here is an overview of all open source projects I made so far:
 #### No longer maintained
 [jackson-dataformat-nbt](https://github.com/valaphee/jackson-dataformat-nbt) - Support for reading and writing NBT-encoded data via Jackson abstractions. (Kotlin)<br>
 [netcode](https://github.com/valaphee/netcode) - "Netcode" for Minecraft: Java Edition and Minecraft: Bedrock Edition (Kotlin)<br>
-[redsynth](https://github.com/valaphee/redsynth) - Generate redstone circuits out of Verilog. (Kotlin)<br>
 [tesseract-kotlin](https://github.com/valaphee/tesseract-kotlin) - Experience Minecraft in a different way (Server software based around ECS, with a multi-threaded engine; Learning Project for ECS) (Kotlin)<br>
 [Cyclone](https://github.com/valaphee/Cyclone) - Ascalter Cyclone cloud-system (Legacy Project 2014) (Java)<br>
 [CyclonePort](https://github.com/valaphee/Cyclone) - Ascalter Cyclone cloud-system (Legacy Project 2014) (Java)<br>
