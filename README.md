@@ -11,7 +11,7 @@ Here is an overview of all open source projects I made so far:
 
 #### No longer maintained
 [protod](https://github.com/valaphee/protod) - Protobuf Decompiler (Kotlin)<br>
-[cran](https://github.com/valaphee/cran) - Flow-based programming "language" (Kotlin), with visual editor (JavaFX), docker-capable "processor", and some extensions (HID-based input emulation, SDR, etc., might be replaced with an C++/WinRT UWP implementation) (Kotlin)<br>
+[cran](https://github.com/valaphee/cran) - Flow-based programming "language" (Kotlin), with visual editor (JavaFX), and some extensions (HID-based input emulation, SDR, etc., might be replaced with an C++/WinRT UWP implementation) (Kotlin)<br>
 [synergy](https://github.com/valaphee/synergy) - Free and open-source interactive (transparent) proxy with a vast list of features. (Replaced by Cran) (Kotlin)<br>
 [blit](https://github.com/valaphee/blit) - Free and open-source, cross-platform WebDAV, K8s CP and SFTP client with a vast list of features. (Learning Project for JavaFX) (Kotlin)<br>
 [foundry](https://github.com/valaphee/foundry) - A set of libraries for common used functionalities which are not included in Java or Kotlin. (Kotlin)<br>
