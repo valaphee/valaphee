@@ -6,7 +6,7 @@ Here is an overview of all open source projects I made so far:
 
 ### General
 [steamaudio](https://github.com/valaphee/steamaudio) - Steam Audio for Rust<br>
-[iocum](https://github.com/valaphee/iocum) (a joke - latin) - Utilities and reverse-engineered protocols (Rust)<br>
+[iokum](https://github.com/valaphee/iokum) (a joke - latin) - Utilities and reverse-engineered protocols (Rust)<br>
 [malebolge](https://github.com/valaphee/malebolge) (eight circle of hell) - Reverse-engineering sandbox (Rust)<br>
 
 #### No longer maintained
