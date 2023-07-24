@@ -5,7 +5,7 @@ I'm Valaphee - a software developer, who specialized on network-related developm
 Here is an overview of all open source projects I made so far:
 
 ### General
-[stealth](https://github.com/valaphee/stealth) - Anti reverse-engineering techniques.<br>
+[stealth](https://github.com/valaphee/stealth) - Anti reverse-engineering techniques. (Rust)<br>
 [steamaudio](https://github.com/valaphee/steamaudio) - Steam Audio for Rust<br>
 
 #### No longer maintained
