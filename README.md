@@ -5,10 +5,10 @@ I'm Valaphee - a software developer, who specialized on network-related developm
 Here is an overview of all open source projects I made so far:
 
 ### General
-[steamaudio](https://github.com/valaphee/steamaudio) - Steam Audio for Rust<br>
-[isobmff](https://github.com/valaphee/isobmff) - ISO base media file format for Rust<br>
 
 #### No longer maintained
+[steamaudio](https://github.com/valaphee/steamaudio) - Steam Audio for Rust<br>
+[isobmff](https://github.com/valaphee/isobmff) - ISO base media file format for Rust<br>
 [protod](https://github.com/valaphee/protod) - Protobuf Decompiler (Kotlin)<br>
 [cran](https://github.com/valaphee/cran) - Flow-based programming "language" (Kotlin), with visual editor (JavaFX), and some extensions (HID-based input emulation, SDR, etc., might be replaced with an C++/WinRT UWP implementation) (Kotlin)<br>
 [synergy](https://github.com/valaphee/synergy) - Free and open-source interactive (transparent) proxy with a vast list of features. (Replaced by Cran) (Kotlin)<br>
@@ -16,11 +16,11 @@ Here is an overview of all open source projects I made so far:
 [foundry](https://github.com/valaphee/foundry) - A set of libraries for common used functionalities which are not included in Java or Kotlin. (Kotlin)<br>
 
 ### Minecraft-related
-[tesseract](https://github.com/valaphee/tesseract) - An ECS-based Minecraft server toolkit written in Rust.<br>
 [mcrputil](https://github.com/valaphee/mcrputil) - Minecraft Resource Pack Util for encrypting and decrypting resource packs. (Rust)<br>
-[mcscrape](https://github.com/valaphee/mcscrape) - Scrape Minecraft servers player count and ping and exporting it to InfluxDB. (Rust)<br>
 
 #### No longer maintained
+[tesseract](https://github.com/valaphee/tesseract) - An ECS-based Minecraft server toolkit written in Rust.<br>
+[mcscrape](https://github.com/valaphee/mcscrape) - Scrape Minecraft servers player count and ping and exporting it to InfluxDB. (Rust)<br>
 [jackson-dataformat-nbt](https://github.com/valaphee/jackson-dataformat-nbt) - Support for reading and writing NBT-encoded data via Jackson abstractions. (Kotlin)<br>
 [netcode](https://github.com/valaphee/netcode) - "Netcode" for Minecraft: Java Edition and Minecraft: Bedrock Edition (Kotlin)<br>
 [tesseract-kotlin](https://github.com/valaphee/tesseract-kotlin) - Experience Minecraft in a different way (Server software based around ECS, with a multi-threaded engine; Learning Project for ECS) (Kotlin)<br>
