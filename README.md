@@ -16,7 +16,6 @@ Here is an overview of all open source projects I made so far:
 [foundry](https://github.com/valaphee/foundry) - A set of libraries for common used functionalities which are not included in Java or Kotlin. (Kotlin)<br>
 
 ### Minecraft-related
-[mcrputil](https://github.com/valaphee/mcrputil) - Minecraft Resource Pack Util for encrypting and decrypting resource packs. (Rust)<br>
 
 #### No longer maintained
 [tesseract](https://github.com/valaphee/tesseract) - An ECS-based Minecraft server toolkit written in Rust.<br>
